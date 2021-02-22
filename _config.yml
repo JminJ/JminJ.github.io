@@ -98,7 +98,7 @@ author:
   avatar           : "/assets/images/git_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am Student intersting in **NLP** :)"
   location         : "Jansung, Republic of Korea"
-  email            : "jminju254@gmail.com"
+  #email            : "jminju254@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
